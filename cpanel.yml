@@ -1,5 +1,0 @@
----
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/tapaitoon/public_html/
-    - /bin cp * $DEPLOYPATH  
